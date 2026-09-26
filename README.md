@@ -31,7 +31,7 @@ against the intuition that the most recognizable symptom is the most predictive 
 matters for awareness: more than half of U.S. adults do not know heart disease is the
 leading cause of death.
 
-## What this analysis cannot support
+## Limitations
 
 - **n = 270 is small** for a model with this many predictors. The odds ratios on major
   vessels in particular are likely unstable.
